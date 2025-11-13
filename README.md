@@ -1,2 +1,2 @@
-# 2025-Bluepill-Geli-tirme-Kart-
+# 2025-Bluepill-Geliştirme-Kartı
 Stm32 Bluepill kartı için üretilmiş Geliştirme Kartı
